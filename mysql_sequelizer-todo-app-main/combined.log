@@ -1,0 +1,5 @@
+[03 May, 2024 - 14:13:22:1322] [31merror[39m: [31mUser with email or username already exists[39m
+[03 May, 2024 - 14:13:22:1322] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/register 409 - 36.402 ms[39m
+[03 May, 2024 - 14:13:53:1353] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/register 200 - 107.506 ms[39m
+[03 May, 2024 - 14:14:36:1436] [31merror[39m: [31mUser with email or username already exists[39m
+[03 May, 2024 - 14:14:36:1436] [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/register 409 - 33.304 ms[39m
